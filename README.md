@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm Malaika Ahmed  
+# 👋 Hi there, My name is Malaika. 
 
 ## 📊 Data Science Student  
 
-Motivated and detail-oriented Data Science student skilled in **Python, R, SQL, and Power BI**.  
+I am a motivated and detail-oriented Data Science student skilled in **Python, R, SQL, and Power BI**.  
 Passionate about **data analysis, time-series modelling, and solving real-world problems** through data-driven insights.  
 
 I am also proficient in **graphic design**, with hands-on experience in **Adobe Illustrator, Photoshop, and Figma** for branding and UI/UX design. I combine **analytical thinking with creative problem-solving** to deliver impactful and visually engaging results.  
