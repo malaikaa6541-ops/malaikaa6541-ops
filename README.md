@@ -3,7 +3,9 @@
 ## 📊 Data Science Student  
 
 Motivated and detail-oriented Data Science student skilled in **Python, R, SQL, and Power BI**.  
-Passionate about **data analysis, time-series modeling, and solving real-world problems** through data-driven insights.  
+Passionate about **data analysis, time-series modelling, and solving real-world problems** through data-driven insights.  
+
+I am also proficient in **graphic design**, with hands-on experience in **Adobe Illustrator, Photoshop, and Figma** for branding and UI/UX design. I combine **analytical thinking with creative problem-solving** to deliver impactful and visually engaging results.  
 
 Currently working on a **weather-based electricity outage prediction system** in collaboration with:  
 **NTDC | IESCO | ISMO | WeatherWalay**
@@ -18,8 +20,8 @@ Air University, Islamabad
 
 ## 📬 How to Reach Me  
 📧 Email: **malaikaa6541@gmail.com**  
-🔗 LinkedIn: *(Add your LinkedIn URL here)*  
-
+🔗 LinkedIn: *www.linkedin.com/in/malaika-ahmed-672b63250* 
+📸 Instagram: *https://www.instagram.com/malaikaahmed._?igsh=ODVodGV0Y3VwZWh6*
 ---
 
 ## 🛠 Skills & Tools  
@@ -32,25 +34,34 @@ Air University, Islamabad
 
 ### 📊 Data Science & Machine Learning  
 - Data Cleaning & Preprocessing (Pandas, NumPy)  
-- Time-Series Analysis  
+- Exploratory Data Analysis (EDA)  
+- Time-Series Analysis & Forecasting  
 - Supervised Machine Learning  
-- Data Interpretation & Insights  
+- Feature Engineering  
+- Data Interpretation & Insights
 
-### 📈 Visualization Tools  
+### 🎨 Graphic Design & UI/UX  
+- Adobe Illustrator  
+- Adobe Photoshop  
+- Figma  
+- Branding & Visual Identity Design  
+- UI/UX Design Principles
+
+### 📈 Visualisation Tools  
 - Power BI  
 - Microsoft Excel  
-- R Studio  
+- R Studio
 
 ### ⚙️ Platforms & IDEs  
 - Jupyter Notebook  
 - Google Colab  
 - Visual Studio Code  
-- Figma  
+- Figma
 
 ---
 
 ## 🚀 Current Project  
-🌦️ **Weather-Based Electricity Outage Prediction System**  
+🌦️ **OutaCast - Weather-Based Electricity Outage Prediction System**  
 A predictive analytics system designed to identify and forecast electricity outages using weather data, aimed at improving grid reliability in Pakistan’s power distribution network.
 
 ---
