@@ -20,6 +20,8 @@ Air University, Islamabad
 
 ## 📬 How to Reach Me  
 📧 Email: <a href="mailto:malaikaa6541@gmail.com">malaikaa6541@gmail.com</a>
+
+## Lets Connect!
 🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malaika-ahmed-672b63250)
 
 📸 Instagram: [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/malaikaahmed._)
